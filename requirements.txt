@@ -1,0 +1,3 @@
+git+https://github.com/readyplayerme/ready-player-me
+pyside2
+Qt.py
