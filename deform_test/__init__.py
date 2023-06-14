@@ -17,7 +17,7 @@ bl_info = {
 
 class OpenDeformTestWindow(bpy.types.Operator):
     bl_idname = "wm.open_deform_test_window"
-    bl_label = "Open Deform Test Window"
+    bl_label = "Deformation-Test Window"
     bl_icon = 'CONSOLE'
     widget = None
 
