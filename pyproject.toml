@@ -21,7 +21,7 @@ classifiers = [
     "Programming Language :: Python :: 3.7",
 ]
 #dynamic = ["dependencies"]
-dependencies = ['importlib-metadata; python_version<"3.7"', "git+https://github.com/readyplayerme/ready-player-me", "Qt.py", "PySide2"]
+dependencies = ['importlib-metadata; python_version<"3.7"', "ready_player_me @ git+https://github.com/readyplayerme/ready-player-me", "Qt.py", "PySide2"]
 #dynamic = ["version"]
 version = "0.0.1"
 
