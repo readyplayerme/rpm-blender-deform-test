@@ -29,4 +29,4 @@ Installing through PIP
 Instructions:
 - PIP install the module from github
 ```
-python -m pip install https://github.com/readyplayerme/blender-deform-test
+python -m pip install git+https://github.com/readyplayerme/blender-deform-test
