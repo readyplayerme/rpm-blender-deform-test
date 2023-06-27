@@ -38,13 +38,10 @@ python -m pip install git+https://github.com/readyplayerme/rpm-blender-deform-te
 2. Click 'Deformation-Test-Window' button to open the tool
 
 ### Use the tool
-<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd" height="400" />
 
-1. Open this documentation 
-2. Import animations from a .BLEND file
-3. Select an animation to play
-4. Slider to move through the animation
-5. Slider to control animation playback speed
-6. Enable Skeleton see-through (X-Ray)
+|  |  |
+| ------ | ------------- |
+| <img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd" height="600" /> | 1. Open this documentation<br>2. Import animations from a .BLEND file<br>3. Select an animation to play<br>4. Slider to move through the animation<br>5. Slider to control animation playback speed<br>6. Enable Skeleton see-through (X-Ray) |
 
-You can play the animation (the animation loops), by pressing the play button in the timeline view or pressing spacebar, the default shortcut (if you chose another functionality for the spacebar at the first Blender startup, then the default shortcut would be ‘shift + spacebar’)
+
+You can play the animation by pressing the play button in the timeline view or pressing spacebar (Blender's default shortcut)
