@@ -1,4 +1,4 @@
-# blender-deform-test
+# Blender deform test
 ![rundeformtool](https://github.com/readyplayerme/blender-deform-test/assets/104501614/9cda11be-eccf-442a-9144-380e180017ce)
 
 This tool can be used to test animations on skinned avatars in Blender.
@@ -32,13 +32,13 @@ python -m pip install git+https://github.com/readyplayerme/rpm-blender-deform-te
 ## How to use
 
 ### Open the tool
-<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/d02bd477-d42a-49d5-a089-c7114b668bc3" width="500" height="500" />
+<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/d02bd477-d42a-49d5-a089-c7114b668bc3" height="400" />
 
 1. Click 'Window' menu button on topbar
 2. Click 'Deformation-Test-Window' button to open the tool
 
 ### Use the tool
-<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd" width="500" height="800" />
+<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd" height="400" />
 
 1. Open this documentation 
 2. Import animations from a .BLEND file
