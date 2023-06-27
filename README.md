@@ -29,15 +29,17 @@ Instructions:
 ```
 python -m pip install git+https://github.com/readyplayerme/rpm-blender-deform-test
 ```
-### How to use
+## How to use
 
-## Open the tool
-![image](https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/d02bd477-d42a-49d5-a089-c7114b668bc3)
+### Open the tool
+<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/d02bd477-d42a-49d5-a089-c7114b668bc3" width="500" height="500" />
+
 1. Click 'Window' menu button on topbar
 2. Click 'Deformation-Test-Window' button to open the tool
 
-## Use the tool
-![image](https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd)
+### Use the tool
+<img src="https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd" width="500" height="800" />
+
 1. Open this documentation 
 2. Import animations from a .BLEND file
 3. Select an animation to play
