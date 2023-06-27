@@ -40,7 +40,7 @@ class TestDeformationWindow(QtWidgets.QWidget):
         # Adding documentation
         self.docs_button = QtWidgets.QPushButton("Documentation")
         self.import_animations = QtWidgets.QPushButton("Import animation")
-        doc_url = "https://www.notion.so/wolf3d/Deformation-Test-Tool-6f27bf8f69724289932359a9261b58b1?pvs=4"
+        doc_url = "https://github.com/readyplayerme/blender-deform-test"
         self.docs_button.clicked.connect(lambda: webbrowser.open(doc_url, new=1, autoraise=True))
         self.import_animations.clicked.connect(self.import_anims)
 
