@@ -3,8 +3,6 @@
 
 This tool can be used to test animations on skinned avatars in Blender.
 
-For more info see the [Deformation Test Tool documentation](https://www.notion.so/wolf3d/Deformation-Test-Tool-6f27bf8f69724289932359a9261b58b1)
-
 ## Install
 This repo can be installed either as a Blender add-on, or through PIP. 
 
@@ -30,3 +28,21 @@ Instructions:
 - PIP install the module from github
 ```
 python -m pip install git+https://github.com/readyplayerme/rpm-blender-deform-test
+```
+### How to use
+
+## Open the tool
+![image](https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/d02bd477-d42a-49d5-a089-c7114b668bc3)
+1. Click 'Window' menu button on topbar
+2. Click 'Deformation-Test-Window' button to open the tool
+
+## Use the tool
+![image](https://github.com/readyplayerme/rpm-blender-deform-test/assets/116070285/afa6c18b-3758-48a3-9fc4-13ad04c368dd)
+1. Open this documentation 
+2. Import animations from a .BLEND file
+3. Select an animation to play
+4. Slider to move through the animation
+5. Slider to control animation playback speed
+6. Enable Skeleton see-through (X-Ray)
+
+You can play the animation (the animation loops), by pressing the play button in the timeline view or pressing spacebar, the default shortcut (if you chose another functionality for the spacebar at the first Blender startup, then the default shortcut would be ‘shift + spacebar’)
