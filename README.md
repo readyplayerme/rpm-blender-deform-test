@@ -1,4 +1,6 @@
 # Blender deform test
+author: Daniel-Ionut Rancea
+
 ![rundeformtool](https://github.com/readyplayerme/blender-deform-test/assets/104501614/9cda11be-eccf-442a-9144-380e180017ce)
 
 This tool can be used to test animations on skinned avatars in Blender.
